@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "55167005601",
+    "firebase_url": "https://rba-generators-default-rtdb.firebaseio.com",
+    "project_id": "rba-generators",
+    "storage_bucket": "rba-generators.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55167005601:android:c42abca61d1568985751e0",
+        "android_client_info": {
+          "package_name": "com.generadoreselectricosrba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55167005601-n732iasoq7v7n7kf1f64ogc10r9vodki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.generadoreselectricosrba",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "55167005601-eevkoiq8cski7bq5jjjr5cvd5goknepl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjY_hddnRABelRNkXVsgeH6SAR0cwzupo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55167005601-eevkoiq8cski7bq5jjjr5cvd5goknepl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55167005601-29m634o7s995kphf10098f0n1l0mn1ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rv.generator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55167005601:android:959a16eb989f52755751e0",
+        "android_client_info": {
+          "package_name": "com.rba.generadoreselectricos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55167005601-9usl7c8u6au8m01m76ep0j10i2spmv3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rba.generadoreselectricos",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "55167005601-eevkoiq8cski7bq5jjjr5cvd5goknepl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjY_hddnRABelRNkXVsgeH6SAR0cwzupo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55167005601-eevkoiq8cski7bq5jjjr5cvd5goknepl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55167005601-29m634o7s995kphf10098f0n1l0mn1ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rv.generator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55167005601:android:1a804041d5185c425751e0",
+        "android_client_info": {
+          "package_name": "com.rba.generadoreselectricosrba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55167005601-qihls3tlkqvsnb2l9m27ejkpgdqt6c0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rba.generadoreselectricosrba",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "55167005601-eevkoiq8cski7bq5jjjr5cvd5goknepl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjY_hddnRABelRNkXVsgeH6SAR0cwzupo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55167005601-eevkoiq8cski7bq5jjjr5cvd5goknepl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55167005601-29m634o7s995kphf10098f0n1l0mn1ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rv.generator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55167005601:android:cff59e3ff85e6cc45751e0",
+        "android_client_info": {
+          "package_name": "rv.generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55167005601-5gldgs287gksu7botk8agtmiuc5m1olh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rv.generator",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "55167005601-eevkoiq8cski7bq5jjjr5cvd5goknepl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjY_hddnRABelRNkXVsgeH6SAR0cwzupo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55167005601-eevkoiq8cski7bq5jjjr5cvd5goknepl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55167005601-29m634o7s995kphf10098f0n1l0mn1ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rv.generator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
